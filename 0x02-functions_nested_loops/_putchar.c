@@ -1,4 +1,4 @@
-#ifndef "main.h"
+#include <unistd.h>
 /**
 * _putchar - writes the character c to stdou
 * @c: The character to print
