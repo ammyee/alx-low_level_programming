@@ -1,1 +1,1 @@
-My first repository on c programming
+Pointer, arrays and strings
